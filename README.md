@@ -1,4 +1,4 @@
-# WEB102 Prework - *Community Board*
+# Project 1 - *Community Board*
 
 Submitted by: **Keerthi Kalyan Botu**
 
