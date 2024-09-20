@@ -1,0 +1,80 @@
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 equal-width columns */
+  gap: 40px; /* Adds 20px gap between cards */
+  justify-items: center; /* Centers the cards horizontally */
+}
+
+.card {
+  background-color: #f8f9fa;
+  width: 100%; /* Fixed width for each card */
+  height: 100%; /* Fixed height for each card */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.card a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.card a:hover {
+
+  text-decoration: none;
+}
+
+/* Ensuring images display in the same size */
+.card-image {
+  width: 100%; /* Image takes up full width of card */
+  height: 300px; /* Fixed height for images */
+  object-fit: cover; /* Ensure the image fits within the defined size */
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.Tent{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Middle{
+  color: white;
+  font-size: 75px;
+  text-shadow: black 1px 0 10px;
+  align-items: center;
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#root{
+  align-items: center;
+}
+
+.header{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.App {
+  margin: 0 60px;
+  color: #000;
+}
