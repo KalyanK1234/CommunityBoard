@@ -9,8 +9,10 @@ The following **required** functionality is completed:
 
 * [ ] Create a unique theme for events or resources relevant to a specific community.
 * [ ] Display at least 10 unique resources or events in a responsive card format
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+
+## Notes
+
+In the video walkthrough, both sample website and localhost website are shown.
 
 ## Video Walkthrough
 
