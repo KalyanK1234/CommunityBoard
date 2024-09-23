@@ -10,6 +10,11 @@ The following **required** functionality is completed:
 * [ ] Create a unique theme for events or resources relevant to a specific community.
 * [ ] Display at least 10 unique resources or events in a responsive card format
 
+The following **optional** functionality is completed:
+
+* [ ] Add buttons or links to a related resource on each card component.
+* [ ] Make the site responsive for both desktop and mobile formats
+
 ## Notes
 
 In the video walkthrough, both sample website and localhost website are shown.
